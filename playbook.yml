@@ -3,3 +3,8 @@
   hosts: localhost
   roles:
     - role: aaronpederson.grafana
+---
+- connection: local
+  hosts: localhost
+  roles:
+    - role: aaronpederson.grafana
