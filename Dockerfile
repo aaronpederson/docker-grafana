@@ -1,8 +1,8 @@
 FROM aaronpederson/ubuntu-ansible
 
 RUN ansible-galaxy install aaronpederson.grafana
-COPY playbook.yml /tmp/
-RUN ansible-playbook /tmp/playbook.yml
+COPY playbook.yml /etc/
+RUN ansible-playbook /etc/playbook.yml
 
 WORKDIR /opt/grafana/current
 VOLUME ["/data"]
