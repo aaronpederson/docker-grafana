@@ -10,7 +10,7 @@ Tunables
 
 Dependencies
 ------------
-* [aaronpederson/ubuntu-ansible](https://github.com/aaronpederson/docker-ubuntu-ansible)
+* [aaronpederson/ubuntu](https://github.com/aaronpederson/docker-ansible)
 
 Example Command
 ----------------
