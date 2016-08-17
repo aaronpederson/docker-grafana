@@ -1,4 +1,4 @@
-FROM aaronpederson/ubuntu-ansible
+FROM aaronpederson/ubuntu
 
 RUN ansible-galaxy install aaronpederson.grafana
 COPY playbook.yml /etc/
