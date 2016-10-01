@@ -2,7 +2,7 @@
 
 [Grafana](https://www.grafana.org) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/grafana.svg)](https://microbadger.com/images/aaronpederson/grafana "Get your own image badge on microbadger.com")
 
 Tunables
 --------
